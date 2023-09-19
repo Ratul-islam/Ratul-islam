@@ -6,6 +6,6 @@
 
 <!---
 
-hi there fellow coders wUw.
+Hi there, fellow coders wUw.
 
 --->
