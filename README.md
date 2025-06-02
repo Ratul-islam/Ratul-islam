@@ -69,6 +69,7 @@ const currentStatus = async () => {
 ```
 
 Currently available for:
+- Backend Projects (love)
 - React/Next.js projects
 - Tailwind CSS therapy sessions
 - Explaining why my PostgreSQL query returns undefined
