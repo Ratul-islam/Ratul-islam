@@ -14,7 +14,7 @@ const ratul = {
   frontend: ["React", "Next.js", "HTML", "CSS", "Tailwind CSS"],
   backend: ["Node.js", "Express", "Flask", "FastAPI"],
   databases: ["MongoDB", "PostgreSQL", "MySQL"],
-  languages: ["JavaScript", "TypeScript", "Python"],
+  languages: ["JavaScript", "TypeScript", "Python", "C/C++ (competitive programming)"],
   ai_stuff: ["OpenAI API", "Vector DBs"],
   debugging_method: "console.log() until something works"
 };
@@ -38,6 +38,7 @@ const ratul = {
 - **Also me**: `className="flex items-center justify-center h-screen bg-gradient-to-r from-blue-500 to-purple-600"`
 - **Next.js**: "It's just React with extra steps"
 - **PostgreSQL**: "Why did I choose a database that's harder to spell than MongoDB?"
+- **C++**: "At least segmentation faults are honest about breaking things"
 
 ## The Stack Overflow Chronicles
 ```bash
@@ -47,6 +48,7 @@ const ratul = {
 - "Tailwind CSS not working"
 - "PostgreSQL connection refused"
 - "JavaScript why is this undefined"
+- "C++ vector out of bounds"
 - "How to exit vim" (just in case)
 ```
 
@@ -70,7 +72,7 @@ Currently available for:
 - React/Next.js projects
 - Tailwind CSS therapy sessions
 - Explaining why my PostgreSQL query returns undefined
-- Existential discussions about JavaScript
+- Competitive programming discussions (bring your own segfaults)
 
 ---
 
